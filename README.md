@@ -53,4 +53,5 @@ The project is broken down into modular Python scripts corresponding to each tas
 - Seaborn
 
 ## Author
-**Shayan**
+Ammar Hassan
+BCS-F23-M35
